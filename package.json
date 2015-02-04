@@ -1,0 +1,14 @@
+{
+  "name": "protractor-sauce",
+  "version": "0.0.0",
+  "description": "Protractor Saucelabs example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+        "protractor": "1.6.x"
+  }
+}
