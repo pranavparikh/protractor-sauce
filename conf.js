@@ -15,7 +15,7 @@ exports.config = {
     specs: ['spec.js'],
 
     // Is this supported ?
-    seleniumAddress: "http://sauceUer:sauceKey@ondemand.saucelabs.com:80/wd/hub",
+    seleniumAddress: "http://sauceUser:sauceKey@ondemand.saucelabs.com:80/wd/hub",
 
     // Options to be passed to Jasmine-node.
     jasmineNodeOpts: {
